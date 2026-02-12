@@ -3,9 +3,4 @@ workflows:
   - name: ppmSeqPreprocess
     subclass: WDL
     primaryDescriptorPath: /workflows/ppmSeq_preprocess/ppmSeq_preprocess.wdl
-    description: "Forked from https://github.com/Ultimagen/healthomics-workflows. For testing on Dockstore."
-    topics:
-      - "testing on Dockstore"
-      - "ppmSeq"
-    workflowVersions:
-      - gitTag: v1.0
+    topic: "Forked from https://github.com/Ultimagen/healthomics-workflows. For testing on Dockstore."
