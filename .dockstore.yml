@@ -1,0 +1,5 @@
+version: 1.2
+workflows:
+  - name: ppmSeqPreprocess
+    subclass: WDL
+    primaryDescriptorPath: /workflows/ppmSeq_preprocess/ppmSeq_preprocess.wdl
