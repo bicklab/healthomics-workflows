@@ -1,5 +1,5 @@
 # healthomics-workflows
-This workflow is a fork of [[original repo URL]](https://github.com/Ultimagen/healthomics-workflows).
+This workflow is a fork of https://github.com/Ultimagen/healthomics-workflows.
 
 UltimaGenomics repository for workflows compatible with AWS HealthOmics
 
